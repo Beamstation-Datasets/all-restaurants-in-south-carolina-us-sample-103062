@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of South Carolina. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in South Carolina, US",
-  "export_job_id": "5b2134c2-0aea-4883-8b25-dab957060bad",
+  "export_job_id": "20b04c36-866a-4310-9771-3e77616663bd",
   "github_org": "Beamstation-Datasets",
   "id_short": 103062,
   "location_name": "South Carolina",
   "location_type": "state",
   "repo_name": "all-restaurants-in-south-carolina-us-sample-103062",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/103062/beamstation_103062_restaurants-us-sc_SAMPLE_DIST.csv",
-  "sample_pct": 9.37,
+  "sample_pct": 9.36,
   "sample_records": 1000,
-  "sample_sha256": "9d79ebd68a1578f35f1b1a17cad5b8f8f49394ce8e2eaeb6ece9070fe176c28d",
-  "sample_size_bytes": 2813796,
-  "total_records": 10670,
-  "updated_at": "2026-04-07T15:15:17.100986+00:00"
+  "sample_sha256": "3b3379acabe54038461e2f77633dd252ceb024c79c1d17b26a3a9777d38af1fb",
+  "sample_size_bytes": 2376736,
+  "total_records": 10680,
+  "updated_at": "2026-04-14T21:47:17.550247+00:00"
 }
