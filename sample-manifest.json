@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1ce8ebd2-004a-42d6-98d1-e2a0a22eeed8",
+  "export_job_id": "f36d7d60-e7b7-49db-98c1-44e91c2d8472",
   "id_short": 103062,
-  "published_at": "2026-04-22T07:04:03Z",
+  "published_at": "2026-04-29T07:19:05Z",
   "repo_name": "all-restaurants-in-south-carolina-us-sample-103062",
   "sample_asset_name": "beamstation_103062_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/103062/beamstation_103062_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "d5f7cc87b75b34bf621b14c796f4fcba06d06372394c82e7c68dc9541c3e60c4",
-  "sample_size_bytes": 2845937,
-  "total_records": 11877
+  "sample_sha256": "527e8b3e420ef38b0aad8a239bc2359af0d4b618f5651591208bc318581d997d",
+  "sample_size_bytes": 2945534,
+  "total_records": 12089
 }
